@@ -1,5 +1,5 @@
-### Hi there 👋
-
+// ### Hi there 👋
+/*
 <!--
 **mehmetkazim0/mehmetkazim0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+*/
+<h2 align="center">Selam Arkadaşlar Ben Mehmet👋</h2>
+
+<p align="center">
+  <a href="https://github.com/mehmetkazim0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
