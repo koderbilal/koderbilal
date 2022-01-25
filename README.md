@@ -21,7 +21,7 @@
 <h2 align="center">Selam Arkadaşlar Ben Bilal👋</h2>
 
 <p align="center">
-  <a href="https://github.com/mehmetkazim0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/koderbilal" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <p align="center">
   <a href="https://discord.com/users/802836916562034748" target"blank_"><img src="https://dcbadge.vercel.app/api/shield/802836916562034748?theme=discord-inverted"></a>
