@@ -31,3 +31,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koderbilal&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 </p>
+
+<p align="center">
+  Arkadaşlar ben discord.js üstünde ve javascript üstünde çalışıyorum.
+  react öğrenmeye çalışıyorum.
+  </p>
