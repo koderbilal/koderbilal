@@ -17,11 +17,13 @@
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Selam Arkadaşlar Ben Mehmet👋</h2>
+<h2 align="center">Selam Arkadaşlar Ben Bilal👋</h2>
 
 <p align="center">
   <a href="https://github.com/mehmetkazim0" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+[dc-inverted](https://dcbadge.vercel.app/api/shield/bot/852977967776399400?theme=discord-inverted)
+// https://dcbadge.vercel.app/api/shield/bot/802836916562034748?theme=discord-inverted
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehmetkazim0&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 </p>
