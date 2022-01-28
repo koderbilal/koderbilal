@@ -26,6 +26,7 @@
 <p align="center">
   <a href="https://discord.com/users/802836916562034748" target"blank_"><img src="https://dcbadge.vercel.app/api/shield/802836916562034748?theme=discord-inverted"></a>
 </p>
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/802836916562034748?hideDiscrim=true)](https://discord.com/users/802836916562034748)
 
 
